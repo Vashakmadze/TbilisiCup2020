@@ -1,9 +1,3 @@
-THEME: Law - Free Bootstrap 4 Theme
-AUTHOR: uiCookies.com
-LICENSE: Under Creative Commons 3.0 (uiCookies.com/license)
-AUTHOR URI: https://uiCookies.com/
-Twitter: https://twitter.com/probootstrap
-Facebook: https://facebook.com/probootstrap
 
 
 CREDITS:
